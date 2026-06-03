@@ -5,7 +5,6 @@
 currently building things with **React**, **Next.js**, **TypeScript**, **Node.js** and **MongoDB** —
 and slowly making friends with **AI / LLMs**.
 
-not looking for a job yet. just getting dangerously good at it first.
 
 ---
 
