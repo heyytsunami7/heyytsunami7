@@ -2,8 +2,9 @@
 
 > btech grad · mern stack · sharpening the blade before the hunt
 
-currently building things with **React**, **Next.js**, **TypeScript**, **Node.js** and **MongoDB** —
-and slowly making friends with **AI / LLMs**.
+Passionate Full Stack Developer currently focussing learning and sharpening skils on MERN & Node.js.
+Committed to excellence, continuous learning, and building functional solutions.
+
 
 
 ---
