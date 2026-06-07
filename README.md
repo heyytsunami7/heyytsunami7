@@ -1,6 +1,6 @@
-# sakham rana
+# SAKSHAM RANA HERE
 
-> btech grad · mern stack · sharpening the blade before the hunt
+> btech grad · mern stack · sharpening skills
 
 Passionate Full Stack Developer currently focussing learning and sharpening skils on MERN & Node.js.
 Committed to excellence, continuous learning, and building functional solutions.
