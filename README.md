@@ -16,4 +16,4 @@ Committed to excellence, continuous learning, and building functional solutions.
 
 ---
 
-<sub>Marwadi University '26 · inconsistently creative · [hashnode blog coming soon](https://hashnode.com/@heyytsunami)</sub>
+<sub>Marwadi University '26 · inconsistently creative</sub>
