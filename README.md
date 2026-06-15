@@ -4,9 +4,7 @@
 
 ### About me
 
-Passionate Full Stack Developer currently focussing learning and sharpening skils on MERN & Node.js.
-Committed to excellence, continuous learning, and building functional solutions.
-
+Passionate Full Stack Developer focused on sharpening skills in MERN Stack and Node.js. Currently exploring AI Engineering, including Generative AI, LLMs, and modern AI application development. Committed to continuous learning, problem-solving, and building impactful, scalable solutions.
 
 ### Find me
 
