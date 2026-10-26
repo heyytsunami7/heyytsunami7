@@ -15,9 +15,9 @@ Passionate Full Stack Developer focused on sharpening skills in MERN Stack and N
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshamrana773@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamwork)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/heytsunami7)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://heyytsunami.hashnode.dev/)
 
 ---
 
-<sub>Btech CSE'26 · learning in public · </sub>
+<sub>Btech CSE'26 · learning in public </sub>
