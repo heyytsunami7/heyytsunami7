@@ -8,8 +8,8 @@ Passionate Full Stack Developer focused on sharpening skills in MERN Stack and N
 
 ### Currently working on
 
-- **[Blogify](https://github.com/heyytsunami7/Blogify)**— A learning project built to strengthen my full-stack development skills and explore practical implementation.
-- **[Pagewise](https://github.com/heyytsunami7/Pagewise)** — Revamping an existing project with a focus on production-ready code, cleaner architecture, improved maintainability, and scalable implementation.
+- **[Blogify](https://github.com/heyytsunami7/Blogify)**— (Bloging App) A learning project built to strengthen my full-stack development skills and explore practical implementation.
+- **[Pagewise](https://github.com/heyytsunami7/Pagewise)** — (Online Bookstore Prototype) Revamping an existing project with a focus on production-ready code, cleaner architecture, improved maintainability, and scalable implementation.
 
 ### Find me
 
